@@ -1,5 +1,5 @@
 # DISCLAIMER:
-## **specific files potentially enabling these techniques __have NOT been included__!!!**.
+## **specific files potentially enabling these techniques __have NOT been included__ !!!!!**
 
 - Research project(s) exploring different techniques used to achieve QRcode exploitation (QUISHING):
 
